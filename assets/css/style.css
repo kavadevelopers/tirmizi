@@ -506,19 +506,12 @@ h1, h2, h3, h4, h5, h6 {
   }
 }
 
-
-@media (max-width: 636px) {
-  #hero h2{
-    font-size: 27px;
-  }
-}
-
 @media (max-width: 768px) {
   #hero {
-    height: 60vh;
+    height: 90vh;
   }
   #hero .carousel-item {
-    height: 60vh;
+    height: 90vh;
   }
 }
 
