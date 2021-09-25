@@ -18,6 +18,7 @@
         <link href="<?= base_url() ?>assets/vendor/animate.css/animate.min.css" rel="stylesheet">
         <link href="<?= base_url() ?>assets/vendor/owl.carousel/assets/owl.carousel.min.css" rel="stylesheet">
         <link href="<?= base_url() ?>assets/vendor/venobox/venobox.css" rel="stylesheet">
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Material+Icons|Material+Icons+Outlined|Material+Icons+Two+Tone|Material+Icons+Round|Material+Icons+Sharp">
         <!-- Template Main CSS File -->
         <link href="<?= base_url() ?>assets/css/style.css" rel="stylesheet">
     </head>
@@ -47,8 +48,8 @@
                         <li class="drop-down <?= menu(1,'products') ?>"><a href="#">Products</a>
                             <ul>
                                 <!-- <li><a href="<?= base_url('products/sample') ?>">Sample</a></li> -->
-                                <li><a href="<?= base_url('products/sample') ?>">Cold storage Spares, Sales & Service</a></li>
-                                <li><a href="<?= base_url('products/sample') ?>">Pharmaceutics Machinery & Spares</a></li>
+                                <li><a href="<?= base_url('cold-storage') ?>">Cold storage Spares, Sales & Service</a></li>
+                                <li><a href="<?= base_url('pharmaceutics-machinery') ?>">Pharmaceutics Machinery & Spares</a></li>
                                 <li><a href="<?= base_url('products/sample') ?>">Plastic Metal Testing Machinery</a></li>
                                 <li><a href="<?= base_url('products/sample') ?>">Pipe Fitting & Valves</a></li>
                                 <li><a href="<?= base_url('products/sample') ?>">Air Conditioning Plants</a></li>
@@ -80,11 +81,20 @@
                         <ol class="carousel-indicators" id="hero-carousel-indicators"></ol>
                         <div class="carousel-inner" role="listbox">
                             <!-- Slide 1 -->
-                            <div class="carousel-item active" style="background: url(assets/img/slide/slide-1.jpg)">
+                            <div class="carousel-item active" style="background: url(assets/images/banner1.jpg); background-repeat: no-repeat;background-size: cover;">
                                 <div class="carousel-container">
                                     <div class="carousel-content">
                                         <h2 class="animate__animated animate__fadeInDown">Welcome to <span>Tirmizi</span></h2>
-                                        <p class="animate__animated animate__fadeInUp">Ut velit est quam dolor ad a aliquid qui aliquid. Sequi ea ut et est quaerat sequi nihil ut aliquam. Occaecati alias dolorem mollitia ut. Similique ea voluptatem. Esse doloremque accusamus repellendus deleniti vel. Minus et tempore modi architecto.</p>
+                                        <p class="animate__animated animate__fadeInUp" style="width:80%;">Let’s Make Your Business Explore The World Safely</p>
+                                        <!--<a href="" class="btn-get-started animate__animated animate__fadeInUp">Read More</a>-->
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="carousel-item" style="background: url(assets/images/banner2.jpg); background-repeat: no-repeat;background-size: cover;">
+                                <div class="carousel-container">
+                                    <div class="carousel-content">
+                                        <h2 class="animate__animated animate__fadeInDown"><span>Import Export</span> Services</h2>
+                                        <!-- <p class="animate__animated animate__fadeInUp" style="width:80%;">Let’s Make Your Business Explore The World Safely</p> -->
                                         <!--<a href="" class="btn-get-started animate__animated animate__fadeInUp">Read More</a>-->
                                     </div>
                                 </div>

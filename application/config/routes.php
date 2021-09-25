@@ -50,5 +50,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 |		my-controller/my-method	-> my_controller/my_method
 */
 $route['default_controller'] = 'home';
+$route['cold-storage'] = 'products/cold';
+$route['pharmaceutics-machinery'] = 'products/pharma';
 $route['404_override'] = 'error404';
 $route['translate_uri_dashes'] = FALSE;

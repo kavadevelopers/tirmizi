@@ -8,4 +8,16 @@ class Products extends CI_Controller {
 		$data['_title']		= "Sample";
 		$this->load->theme('products/sample',$data);	
 	}
+
+	public function cold()
+	{
+		$data['_title']		= "Cold storage Spares, Sales & Service";
+		$this->load->theme('products/cold',$data);		
+	}
+
+	public function pharma()
+	{
+		$data['_title']		= "Pharmaceutics Machinery & Spares";
+		$this->load->theme('products/pharma',$data);		
+	}
 }
