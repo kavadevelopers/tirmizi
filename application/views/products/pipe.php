@@ -4,8 +4,11 @@
         <div class="row">
             <div class="col-lg-6">
                 <div class="owl-carousel portfolio-details-carousel">
-                    <img src="<?= base_url() ?>assets/images/cold/1.jpg" class="img-fluid" alt="">
-                    <img src="<?= base_url() ?>assets/images/cold/2.jpg" class="img-fluid" alt="">
+                    <img src="<?= base_url() ?>assets/images/pipe-valves/1.jpg" class="img-fluid" alt="">
+                    <img src="<?= base_url() ?>assets/images/pipe-valves/2.jpg" class="img-fluid" alt="">
+                    <img src="<?= base_url() ?>assets/images/pipe-valves/3.jpg" class="img-fluid" alt="">
+                    <img src="<?= base_url() ?>assets/images/pipe-valves/4.jpg" class="img-fluid" alt="">
+                    <img src="<?= base_url() ?>assets/images/pipe-valves/5.jpg" class="img-fluid" alt="">
                 </div>
             </div>
             <div class="col-lg-6">

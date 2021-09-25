@@ -51,6 +51,17 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 */
 $route['default_controller'] = 'home';
 $route['cold-storage'] = 'products/cold';
-$route['pharmaceutics-machinery'] = 'products/pharma';
+$route['pharmaceutical-machinery'] = 'products/pharma';
+$route['plastic-metal-testing-machinery'] = 'products/plastic';
+$route['pipe-valves'] = 'products/pipe';
+$route['air-conditioning-plants'] = 'products/air_cond';
+$route['fabrication-products'] = 'products/fabrication';
+$route['furnitures'] = 'products/furnitures';
+$route['clothing'] = 'products/clothing';
+$route['garments-hosiery-products'] = 'products/garment';
+$route['cutlery-ornaments'] = 'products/cutlery';
+$route['groceries'] = 'products/groceries';
+$route['fruits-vegetables'] = 'products/fruits';
+$route['dairy-products'] = 'products/dairy';
 $route['404_override'] = 'error404';
 $route['translate_uri_dashes'] = FALSE;

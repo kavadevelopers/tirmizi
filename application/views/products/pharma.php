@@ -4,9 +4,9 @@
         <div class="row">
             <div class="col-lg-6">
                 <div class="owl-carousel portfolio-details-carousel">
-                    <img src="<?= base_url() ?>assets/img/portfolio/portfolio-1.jpg" class="img-fluid" alt="">
-                    <img src="<?= base_url() ?>assets/img/portfolio/portfolio-2.jpg" class="img-fluid" alt="">
-                    <img src="<?= base_url() ?>assets/img/portfolio/portfolio-3.jpg" class="img-fluid" alt="">
+                    <img src="<?= base_url() ?>assets/images/pharma/1.jpg" class="img-fluid" alt="">
+                    <img src="<?= base_url() ?>assets/images/pharma/3.jpg" class="img-fluid" alt="">
+                    <img src="<?= base_url() ?>assets/images/pharma/2.jpg" class="img-fluid" alt="">
                 </div>
             </div>
             <div class="col-lg-6">
@@ -23,7 +23,7 @@
                     Our no-compromise policy in quality standards of our products keeps our name glorified among our valued customers and all our <b>professional</b> clients in the industry.
                 </p>
                 <p>
-                     We deal in all sizes, designs, thicknesses, and flavors of pharmaceuticals across the globe at very reasonable prices. For more information, you can visit our <a href="<?= base_url('contact') ?>"><b>Contact Page</b></a>.
+                     We deal in all sizes, designs, thicknesses, and flavors of <b>pharmaceuticals</b> across the globe at very reasonable prices. For more information, you can visit our <a href="<?= base_url('contact') ?>"><b>Contact Page</b></a>.
                 </p>
             </div>
         </div>

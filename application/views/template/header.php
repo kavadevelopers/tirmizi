@@ -49,18 +49,18 @@
                             <ul>
                                 <!-- <li><a href="<?= base_url('products/sample') ?>">Sample</a></li> -->
                                 <li><a href="<?= base_url('cold-storage') ?>">Cold storage Spares, Sales & Service</a></li>
-                                <li><a href="<?= base_url('pharmaceutics-machinery') ?>">Pharmaceutics Machinery & Spares</a></li>
-                                <li><a href="<?= base_url('products/sample') ?>">Plastic Metal Testing Machinery</a></li>
-                                <li><a href="<?= base_url('products/sample') ?>">Pipe Fitting & Valves</a></li>
-                                <li><a href="<?= base_url('products/sample') ?>">Air Conditioning Plants</a></li>
-                                <li><a href="<?= base_url('products/sample') ?>">Fabrication Products</a></li>
-                                <li><a href="<?= base_url('products/sample') ?>">Furnitures</a></li>
-                                <li><a href="<?= base_url('products/sample') ?>">Clothing</a></li>
-                                <li><a href="<?= base_url('products/sample') ?>">Garments & Hosiery Products</a></li>
-                                <li><a href="<?= base_url('products/sample') ?>">Cutlery & Ornaments</a></li>
-                                <li><a href="<?= base_url('products/sample') ?>">Groceries</a></li>
-                                <li><a href="<?= base_url('products/sample') ?>">Dairy Products</a></li>
-                                <li><a href="<?= base_url('products/sample') ?>">Fruits & Vegetables</a></li>
+                                <li><a href="<?= base_url('pharmaceutical-machinery') ?>">Pharmaceutics Machinery & Spares</a></li>
+                                <li><a href="<?= base_url('plastic-metal-testing-machinery') ?>">Plastic Metal Testing Machinery</a></li>
+                                <li><a href="<?= base_url('pipe-valves') ?>">Pipe Fitting & Valves</a></li>
+                                <li><a href="<?= base_url('air-conditioning-plants') ?>">Air Conditioning Plants</a></li>
+                                <li><a href="<?= base_url('fabrication-products') ?>">Fabrication Products</a></li>
+                                <li><a href="<?= base_url('furnitures') ?>">Furnitures</a></li>
+                                <li><a href="<?= base_url('clothing') ?>">Clothing</a></li>
+                                <li><a href="<?= base_url('garments-hosiery-products') ?>">Garments & Hosiery Products</a></li>
+                                <li><a href="<?= base_url('cutlery-ornaments') ?>">Cutlery & Ornaments</a></li>
+                                <li><a href="<?= base_url('groceries') ?>">Groceries</a></li>
+                                <li><a href="<?= base_url('dairy-products') ?>">Dairy Products</a></li>
+                                <li><a href="<?= base_url('fruits-vegetables') ?>">Fruits & Vegetables</a></li>
                             </ul>
                         </li>
                         <li class="<?= menu(1,'whyus') ?>"><a href="<?= base_url('whyus') ?>">Why us</a></li>
