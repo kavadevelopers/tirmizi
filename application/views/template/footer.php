@@ -16,13 +16,13 @@
                             </ul>
                         </div>
                         <div class="col-lg-3 col-md-6 footer-links">
-                            <h4>Our Products</h4>
+                            <h4>Top Products</h4>
                             <ul>
-                                <li><i class="bx bx-chevron-right"></i> <a href="#">Web Design</a></li>
-                                <li><i class="bx bx-chevron-right"></i> <a href="#">Web Development</a></li>
-                                <li><i class="bx bx-chevron-right"></i> <a href="#">Product Management</a></li>
-                                <li><i class="bx bx-chevron-right"></i> <a href="#">Marketing</a></li>
-                                <li><i class="bx bx-chevron-right"></i> <a href="#">Graphic Design</a></li>
+                                <li><i class="bx bx-chevron-right"></i> <a href="<?= base_url('furnitures') ?>">Furnitures</a></li>
+                                <li><i class="bx bx-chevron-right"></i> <a href="<?= base_url('clothing') ?>">Clothing</a></li>
+                                <li><i class="bx bx-chevron-right"></i> <a href="<?= base_url('air-conditioning-plants') ?>">Air Conditioning Plants</a></li>
+                                <li><i class="bx bx-chevron-right"></i> <a href="<?= base_url('groceries') ?>">Groceries</a></li>
+                                <li><i class="bx bx-chevron-right"></i> <a href="<?= base_url('fruits-vegetables') ?>">Fruits & Vegetables</a></li>
                             </ul>
                         </div>
                         <div class="col-lg-3 col-md-6 footer-contact">
