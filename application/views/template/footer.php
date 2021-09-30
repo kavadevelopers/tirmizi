@@ -36,7 +36,7 @@
                         </div>
                         <div class="col-lg-3 col-md-6 footer-info">
                             <h3>About <span style="color:#69bd45;">Tirmizi</span></h3>
-                            <p>Cras fermentum odio eu feugiat lide par naso tierra. Justo eget nada terra videa magna derita valies darta donna mare fermentum iaculis eu non diam phasellus.</p>
+                            <p>We are an import-export firm based in Ahmedabad, Gujrat, India. We give the importers and exporters a platform to do their international business of buying and selling goods and make sure that goods travel safely to their destination.</p>
                             <div class="social-links mt-3">
                                 <a href="#" class="facebook"><i class="bx bxl-facebook"></i></a>
                             </div>

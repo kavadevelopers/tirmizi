@@ -3,24 +3,23 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-6">
-                <img src="assets/img/about.jpg" class="img-fluid" alt="">
+                <!-- <img src="assets/img/about.jpg" class="img-fluid" alt=""> -->
             </div>
-            <div class="col-lg-6 pt-4 pt-lg-0 content">
-                <h3>Voluptatem dignissimos provident quasi corporis voluptates sit assumenda.</h3>
-                <p class="font-italic">
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
-                    magna aliqua.
-                </p>
+            <div class="col-lg-12 pt-4 pt-lg-0 content">
+                <h3>Reasons to choose us</h3>
                 <ul>
-                    <li><i class="icofont-check-circled"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat.</li>
-                    <li><i class="icofont-check-circled"></i> Duis aute irure dolor in reprehenderit in voluptate velit.</li>
-                    <li><i class="icofont-check-circled"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate trideta storacalaperda mastiro dolore eu fugiat nulla pariatur.</li>
+                    <li><i class="icofont-check-circled"></i> Most secure delivery services for our clients’ import and export orders.</li>
+                    <li><i class="icofont-check-circled"></i> Sequenced verification before enlisting any buyer or seller on our platform.</li>
+                    <li><i class="icofont-check-circled"></i> All the required certifications and information are checked before the business activation through our platform.</li>
+                    <li><i class="icofont-check-circled"></i> Over 50+ certified clients worldwide.</li>
+                    <li><i class="icofont-check-circled"></i> Authenticity certifications - <b>(MSME certified, ISE certified)</b> make it convenient for our clients to trust on us for the first time. </li>
+                    <li><i class="icofont-check-circled"></i> Our expert supervisors’ team is always ready to provide throughout supervision to our valued clients.</li>
+                    <li><i class="icofont-check-circled"></i> Verified and quality products.</li>
+                    <li><i class="icofont-check-circled"></i> Reasonable rates.</li>
+                    <li><i class="icofont-check-circled"></i> Easy to access web portal.</li>
+                    <li><i class="icofont-check-circled"></i> Faster order placing.</li>
+                    <li><i class="icofont-check-circled"></i> Secure and quick payments.</li>
                 </ul>
-                <p>
-                    Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
-                    velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-                    culpa qui officia deserunt mollit anim id est laborum
-                </p>
             </div>
         </div>
     </div>
