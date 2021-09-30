@@ -50,7 +50,7 @@
                 <div class="count-box">
                     <i class="icofont-document-folder"></i>
                     <span data-toggle="counter-up">8555</span>
-                    <p><strong>Export Items</strong></p>
+                    <p><strong>Exported Items</strong></p>
                 </div>
             </div>
             <div class="col-lg-3 col-md-6 d-md-flex align-items-md-stretch">
