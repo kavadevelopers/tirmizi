@@ -10,7 +10,7 @@
             <div class="col-lg-3"></div>
             <div class="col-lg-12 pt-4 pt-lg-0 content" style="margin-top: 40px;">
                 <p class="font-italic">
-                    Trimizi is an India-based Import-Export portal located in Ahmedabad, Gujrat. We are a registered firm and have all the required validations like MSME, ISE, and else.
+                    Trimizi is an India-based Import-Export portal located in Ahmedabad, Gujrat. We are a registered firm and have all the required validations like MSME, IEC , ISO and else.
                 </p>
                 <ul>
                     <li><i class="icofont-check-circled"></i> Currently, we have over 50+ clients all over the world. </li>

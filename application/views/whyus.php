@@ -12,7 +12,7 @@
                     <li><i class="icofont-check-circled"></i> Sequenced verification before enlisting any buyer or seller on our platform.</li>
                     <li><i class="icofont-check-circled"></i> All the required certifications and information are checked before the business activation through our platform.</li>
                     <li><i class="icofont-check-circled"></i> Over 50+ certified clients worldwide.</li>
-                    <li><i class="icofont-check-circled"></i> Authenticity certifications - <b>(MSME certified, ISE certified)</b> make it convenient for our clients to trust on us for the first time. </li>
+                    <li><i class="icofont-check-circled"></i> Authenticity certifications - <b>(MSME certified, IEC certified, ISO certified)</b> make it convenient for our clients to trust on us for the first time. </li>
                     <li><i class="icofont-check-circled"></i> Our expert supervisors’ team is always ready to provide throughout supervision to our valued clients.</li>
                     <li><i class="icofont-check-circled"></i> Verified and quality products.</li>
                     <li><i class="icofont-check-circled"></i> Reasonable rates.</li>
