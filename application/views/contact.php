@@ -16,18 +16,25 @@
                     <p>+91 972 2809 786, +91 869 0102 575, +91 982 5486 391</p>
                 </div>
             </div>
-            <div class="col-lg-6">
+            <div class="col-lg-4">
                 <div class="info-box mb-4">
                     <i class="bx bx-map"></i>
                     <h3>Registered Office</h3>
-                    <p>47, Rajdeep Ind. Estate, Near Saurastra Paints, Station Road,<br>Vatva, Ahmedabad, Gujarat, India - 382440<br><br></p>
+                    <p>47, Rajdeep Ind. Estate, Near Saurastra Paints, Station Road, Vatva, Ahmedabad, Gujarat, India - 382440</p>
                 </div>
             </div>
-            <div class="col-lg-6">
+            <div class="col-lg-4">
+                <div class="info-box mb-4">
+                    <i class="bx bx-map"></i>
+                    <h3>Corporate Office</h3>
+                    <p>Titanium City Center, Block-C, 1005, 10th Floor, Anandnagar Road, Satalite, Ahmedabad, Gujarat, India 380010. </p>
+                </div>
+            </div>
+            <div class="col-lg-4">
                 <div class="info-box mb-4">
                     <i class="bx bx-map"></i>
                     <h3>Regional Office</h3>
-                    <p>D 504,505,506 Marjan Residency, Opp. Punping Station,<br>Masjide Kuba Line, Vatva Ghodasar Canal Road,<br>Vatva, Ahmedabad, Gujarat, India - 380001</p>
+                    <p>D 504,505,506 Marjan Residency, Opp. Punping Station, Masjide Kuba Line, Vatva Ghodasar Canal Road, Vatva, Ahmedabad, Gujarat, India - 380001</p>
                 </div>
             </div>
         </div>
